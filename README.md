@@ -16,3 +16,5 @@ complete source code,
 direct download exe, no "release" used
 [s8/win_exe/s8.exe](s8/win_exe/s8.exe)  
 
+![compile_done.JPG](compile_done.JPG)  
+
