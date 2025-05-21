@@ -9,7 +9,8 @@ https://github.com/gicking/stm8gal
 
 ### revised Makefile to compile with MinGW  
 both Makefile of root & parsers, revised to match project files and structure.  
-[s8\src](s8\src)  
+complete source code,  
+[s8/src](s8/src)  
 
 ### release s8.exe, short name and easy for testing
 direct download exe, no "release" used
